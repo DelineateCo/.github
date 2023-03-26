@@ -1,6 +1,6 @@
 <p align="center">
   <a href=#">
-    <img src="https://github.com/delineate/.github/blob/master/profile/logo.png">
+    <img src="https://github.com/DelineateCo/.github/blob/master/profile/logo.png">
   </a>
 </p>
 
